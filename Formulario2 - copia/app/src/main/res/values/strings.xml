@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="button_guardar">Guardar</string>
+    <string name="button_listar">Listar</string>
+    <string name="label_cedula">Cedula</string>
+    <string name="label_nombre">Nombre</string>
+    <string name="mensaje_guardar">Guardado</string>
+    <string name="mensaje_listar">listar</string>
+    <string name="ingresar_datos">Ingresar Datos</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form</string>
+    <string name="button_guardar">Save</string>
+    <string name="button_listar">List</string>
+    <string name="label_cedula">ID</string>
+    <string name="label_nombre">Name</string>
+    <string name="mensaje_guardar">Saved</string>
+    <string name="mensaje_listar">Listing</string>
+    <string name="ingresar_datos">Enter Data</string>
+</resources>
